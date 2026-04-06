@@ -1,16 +1,54 @@
-# assignment_7
+# 📱 Destination Profile App
 
-A new Flutter project.
+Destination Profile App is a Flutter UI assignment focused on replicating a Figma-designed screen with a modern layout, emphasizing pixel-perfect design, clean structure, and reusable components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🌄 Beautiful destination profile UI
+* 🎨 Pixel-perfect Figma design replication
+* ❤️ Interactive icons and buttons
+* 📐 Clean and responsive layout
+* 🔁 Reusable Flutter widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+* Flutter (Dart)
+* Stateless & Stateful Widgets
+* Custom UI Components
+* Stack, Column, and Card layouts
+
+---
+
+## 📸 Preview
+
+(Add your screenshot here)
+
+---
+
+## ⚙️ Getting Started
+
+```bash id="p8k3d2"
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project
+cd your-repo-name
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+---
+
+## 🎯 Project Type
+
+Flutter UI Assignment (Figma Design Replication)
+
+---
